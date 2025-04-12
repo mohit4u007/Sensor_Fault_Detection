@@ -22,7 +22,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"genieai.chatgpt-vscode",
+				"google.geminicodeassist",
 				"ms-python.python",
 				"mongodb.mongodb-vscode",
 				"ms-toolsai.jupyter"
